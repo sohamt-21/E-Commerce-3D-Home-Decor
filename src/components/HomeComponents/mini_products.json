@@ -1,0 +1,80 @@
+[
+    {
+        "id": "16",
+        "name": "Wooden Table",
+        "price": 29999,
+        "image": "https://prod.spline.design/hdSxn9uRcIL5xl5q/scene.splinecode",
+        "colors": [
+            "#ffb900"
+        ],
+        "company": "caressa",
+        "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+        "category": "living room"
+    },
+    {
+        "id": "7",
+        "name": "Colored Hanging Lamp",
+        "price": 10000,
+        "image": "https://prod.spline.design/kc6TJ6imGc92pDf1/scene.splinecode",
+        "featured": true,
+        "colors": [
+            "#000",
+            "#ff0000"
+        ],
+        "company": "caressa",
+        "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+        "category": "living room",
+        "shipping": true
+    },
+    {
+        "id": "18",
+        "name": "Yellow Chair",
+        "price": 12099,
+        "image": "https://prod.spline.design/iyeE4UYJ4o3AjF1Q/scene.splinecode",
+        "featured": true,
+        "colors": [
+            "#ff0000"
+        ],
+        "company": "Soham Furnites",
+        "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+        "category": "office"
+    },
+    {
+        "id": "11",
+        "name": "Tree Pot",
+        "price": 2100,
+        "image": "https://prod.spline.design/HGk2YD9S-V69RUZv/scene.splinecode",
+        "featured": true,
+        "colors": [
+            "#ffb900"
+        ],
+        "company": "caressa",
+        "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+        "category": "living room"
+    },
+    {
+        "id": "12",
+        "name": "3 Lights Lamp",
+        "price": 10000,
+        "image": "https://prod.spline.design/uw8l07uSglCS85iG/scene.splinecode",
+        "colors": [
+            "#000"
+        ],
+        "company": "liddy",
+        "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+        "category": "kitchen",
+        "shipping": true
+    },
+    {
+        "id": "13",
+        "name": "Study Table Lamp (White)",
+        "price": 15000,
+        "image": "https://prod.spline.design/4H80bwffR0njFFa0/scene.splinecode",
+        "colors": [
+            "#00ff00"
+        ],
+        "company": "ikea",
+        "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+        "category": "office"
+    }
+]
